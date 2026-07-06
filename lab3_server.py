@@ -5,7 +5,7 @@ import time  # for testing only to make the two client concurrently connect
 
 HOST = ""
 PORT = 5050
-SERVER_NAME = "Server of Jane Q. Public"
+SERVER_NAME = "Server of Harvey Julian Ermitanio"
 
 
 def handle_client(conn, addr):
